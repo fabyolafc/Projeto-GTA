@@ -1,4 +1,4 @@
-# Projeto-X-Men
+# Projeto GTA
 Projeto realizado no evento do zero ao programador
 
 [![Website](https://img.shields.io/badge/Website-39E09B?style=for-the-badge&logo=Website&logoColor=white)](projeto-gta.netlify.app) 
